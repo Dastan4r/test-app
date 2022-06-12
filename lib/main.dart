@@ -22,6 +22,7 @@ class Main extends StatelessWidget {
           headline1: TextStyle(
             color: Colors.black,
             fontSize: 22,
+            fontWeight: FontWeight.w500
           ),
         ),
       ),
